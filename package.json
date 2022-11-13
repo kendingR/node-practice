@@ -1,0 +1,25 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "The project is just for node practice.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendingR/node-practice.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ken Ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendingR/node-practice/issues"
+  },
+  "homepage": "https://github.com/kendingR/node-practice#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
